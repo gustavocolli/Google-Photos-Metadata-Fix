@@ -1,1 +1,0 @@
-# json_fuser_and_heic_to_jpg
