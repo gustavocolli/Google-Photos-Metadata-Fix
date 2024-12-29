@@ -7,7 +7,7 @@ When downloading media from Google, the files usually come with a corresponding 
 How to Use This Project
 Step 1: Install Python
 Download and install Python from https://www.python.org/downloads/.
-If you encounter errors running the scripts, refer to helpful solutions like this Quora response: https://www.quora.com/My-Python-files-are-not-opening-in-the-terminal-Python-projectfive-py-Why-I-have-tried-several-solutions-but-none-is-working-How-can-I-solve-it
+
 
 Step 2: Install Required Libraries
 Open the Command Prompt on Windows (press Start, type cmd, and hit Enter).
@@ -15,6 +15,8 @@ Run the following commands to install the necessary libraries:
 pip install pillow
 pip install pillow-heif
 pip install moviepy
+
+If you encounter errors running the scripts, you might have installed Python incorrectly. Refer to helpful solutions like this Quora response: https://www.quora.com/My-Python-files-are-not-opening-in-the-terminal-Python-projectfive-py-Why-I-have-tried-several-solutions-but-none-is-working-How-can-I-solve-it
 
 Step 3: Download the Scripts
 Place the following scripts in your working folder:
