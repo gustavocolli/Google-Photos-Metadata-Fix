@@ -10,6 +10,8 @@ Step 1: Install Python
 Download and install Python from https://www.python.org/downloads/
 
 
+
+
 Step 2: Install Required Libraries
 Open the Command Prompt on Windows (press Start, type cmd, and hit Enter).
 Run the following commands to install the necessary libraries:
