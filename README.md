@@ -26,6 +26,7 @@ If you encounter errors running the scripts, you might have installed Python inc
 Step 3: Download the Scripts and place them in your working folder:
 
 ```1st_json_fusion_v10.py```
+
 ```2nd_convert_heic_to_jpeg_v1.py```
 
 ```3rd_date_created_fixer_v5.py```
@@ -35,10 +36,12 @@ Step 3: Download the Scripts and place them in your working folder:
 
 Step 4: Navigate to Your Working Folder
 In the Command Prompt, type:
+
 ```cd C:\path\to\your\folder```
 
 Step 5: Run the Scripts
 In the Command Prompt, type:
+
 ```py 1st_json_fusion_v10.py``` **(This script pairs .json metadata files with their corresponding images or videos.)**
 
 ```py 2nd_convert_heic_to_jpeg_v1.py``` **(If you have HEIC files (common on Apple devices), this script converts them to JPEG format.)**
@@ -49,6 +52,7 @@ Extra: Step 6: Fill Exif's "date taken" or "media created".
 If your media doesn't have any EXIF information but its name carries a piece of information from when you took it, this script will update its "date taken" (for images) or "media created" (for videos).
 For that you will need to extract the zip file that contains the folder ExifTool together, in the same folder you are using to work on your files.
 in the Command Prompt, type
+
 ```py 4th_exif_fixer_from_file_name_v5.py```
 
 Need Help?
