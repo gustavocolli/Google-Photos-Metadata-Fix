@@ -63,7 +63,8 @@ For that you will need to extract the zip file that contains the folder ExifTool
 in the Command Prompt, type
 
 ```py 4th_exif_fixer_from_file_name_v5.py```
-
+<pre>
+</pre>
 
 Need Help?
 If you happen to have any issues or have questions, feel free to reach out. I’d be happy to assist!
