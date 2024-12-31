@@ -70,9 +70,3 @@ Need Help?
 If you happen to have any issues or have questions, feel free to reach out. I’d be happy to assist!
 
 Cheers!
-
-
-<space>
-<space>
-<space>
-test
