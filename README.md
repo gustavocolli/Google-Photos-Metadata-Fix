@@ -14,8 +14,11 @@ Open the Command Prompt on Windows (press Start, type cmd, and hit Enter).
 Run the following commands to install the necessary libraries:
 
 ```pip install pillow```
+
 ```pip install pillow-heif```
+
 ```pip install moviepy```
+
 ```pip install piexif```
 
 If you encounter errors running the scripts, you might have installed Python incorrectly. Refer to helpful solutions like this Quora response: https://www.quora.com/My-Python-files-are-not-opening-in-the-terminal-Python-projectfive-py-Why-I-have-tried-several-solutions-but-none-is-working-How-can-I-solve-it
