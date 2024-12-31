@@ -1,10 +1,10 @@
-Project Overview
+# Project Overview
 This project is not affiliated with Google and has not been officially endorsed. I created a personal initiative to address an issue I faced with Google Photos. My goal is to provide a clear and straightforward guide so that anyone without coding experience can use it effectively and fix the lack of EXIF information in their pictures
 
 Background
 When downloading media from Google, the files usually come with a corresponding .json file which brings EXIF metadata. Unfortunately, this metadata, such as creation date, date taken, media taken and location, is not embedded in the media files. This can be a hassle for those like me who value organized photo and video libraries.
 
-**How to Use This Project**
+# How to Use This Project
 Step 1: Install Python
 Download and install Python from https://www.python.org/downloads/
 
@@ -12,7 +12,7 @@ Download and install Python from https://www.python.org/downloads/
 Step 2: Install Required Libraries
 Open the Command Prompt on Windows (press Start, type cmd, and hit Enter).
 Run the following commands to install the necessary libraries:
-# pip install pillow
+pip install pillow
 pip install pillow-heif
 pip install moviepy
 pip install piexif
