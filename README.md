@@ -13,7 +13,7 @@ Step 2: Install Required Libraries
 Open the Command Prompt on Windows (press Start, type cmd, and hit Enter).
 Run the following commands to install the necessary libraries:
 
-<pip install pillow>
+pip install pillow
 pip install pillow-heif
 pip install moviepy
 pip install piexif
@@ -47,3 +47,9 @@ Need Help?
 If you happen to have any issues or have questions, feel free to reach out. I’d be happy to assist!
 
 Cheers!
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
