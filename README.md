@@ -24,10 +24,14 @@ Run the following commands to install the necessary libraries:
 If you encounter errors running the scripts, you might have installed Python incorrectly. Refer to helpful solutions like this Quora response: https://www.quora.com/My-Python-files-are-not-opening-in-the-terminal-Python-projectfive-py-Why-I-have-tried-several-solutions-but-none-is-working-How-can-I-solve-it
 
 Step 3: Download the Scripts and place them in your working folder:
+
 ```1st_json_fusion_v10.py```
 ```2nd_convert_heic_to_jpeg_v1.py```
+
 ```3rd_date_created_fixer_v5.py```
+
 ```Extra step: 4th_exif_fixer_from_file_name_v5 (is within the provided zip file)```
+
 
 Step 4: Navigate to Your Working Folder
 In the Command Prompt, type:
