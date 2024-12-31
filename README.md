@@ -12,7 +12,7 @@ Download and install Python from https://www.python.org/downloads/
 Step 2: Install Required Libraries
 Open the Command Prompt on Windows (press Start, type cmd, and hit Enter).
 Run the following commands to install the necessary libraries:
-pip install pillow
+'''pip install pillow'''
 pip install pillow-heif
 pip install moviepy
 pip install piexif
