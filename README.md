@@ -66,10 +66,10 @@ in the Command Prompt, type
 <pre>
 </pre>
 
-Extra: Step 7: Change file name to what is in "data taken" ou "media created".
-Perhaps you would like to also change the name of the file to what is present in their exif data. Leave the folder "exiftool" in the same folder where the images/videos and this script will be located.
+Extra: Step 7: Change the file name to what is in "data taken" / "media created".
+You may also want to change the file's name to what is present in their exif data. Leave the folder "exiftool" in the same folder where the images/videos and this script are and run the script below.
 
-```5th_change_filename_to_filedate_v1```
+```py 5th_change_filename_to_filedate_v1.py```
 <pre>
 </pre>
 
