@@ -66,6 +66,13 @@ in the Command Prompt, type
 <pre>
 </pre>
 
+Extra: Step 7: Change file name to what is in "data taken" ou "media created".
+Perhaps you would like to also change the name of the file to what is present in their exif data. Leave the folder "exiftool" in the same folder where the images/videos and this script will be located.
+
+```5th_change_filename_to_filedate_v1```
+<pre>
+</pre>
+
 Need Help?
 If you happen to have any issues or have questions, feel free to reach out. I’d be happy to assist!
 
